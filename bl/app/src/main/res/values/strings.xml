@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Building Locator</string>
+    <string name="adress">adress</string>
+    <string name="description">description</string>
+    <string name="additionalinfo">AdditionalInfo</string>
+    <string name="add_property">Add property</string>
+    <string name="image_url">image url</string>
+    <string name="property_title">Property Title</string>
+    <string name="post_date">Post Date</string>
+    <string name="date">5/5/2020</string>
+</resources>
